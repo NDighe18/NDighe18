@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nandini Dighe.
-- 👀  I am deeply passionate about exploring and mastering current technologies. With a keen interest in data science and analytics, I aspire to leverage my academic background and hands-on experience to excel in the dynamic field of data. 
+- 👀  I am deeply passionate about exploring and mastering current technologies. My current skill set includes Front-end tech stack like HTML,CSS,JS,React along with problem solving skills in languages like Java. With a keen interest in the field of data , I am also learning different skills required in Data Analytics. 
 
 
 <!---
